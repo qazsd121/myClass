@@ -1,6 +1,7 @@
 body{
     background: #D6DED1;
     display: flex;
+    width: auto;
 }
 
 
@@ -148,15 +149,16 @@ border-radius: 22px;
     width: 625px;
     height: 240px;
     left: 0px;
-    top: 834px;
+    top: 818px;
     
 }
 .vector{
     position: absolute;
 width: 349px;
 height: 206px;
-left: 1631px;
+left: 1570px;
 top: 190px;
+margin-bottom: 0px;
 
 
 }
