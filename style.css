@@ -193,9 +193,27 @@ border-radius: 40px;
 
 .secondpageimg{
 position: absolute;
-left: 1292px;
-top: 594px;
+left: 1000px;
+top: 150px;
 
-border:#7C9A92 10px
+border: 15px solid #7C9A92;
 border-radius: 33px;
+}
+.secondpageimg1{
+    position: absolute;
+    left: 40px;
+    top: 40px;
+    
+    border: 12px solid #7C9A92;
+   
+    border-radius: 33px;
+    }
+.thirdpageimg{
+    position: absolute;
+    size:75%;
+    top:50px;
+    left: 25%;
+    border: 12px solid #7C9A92;
+   
+    border-radius: 33px;
 }
