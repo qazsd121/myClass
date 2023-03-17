@@ -190,3 +190,12 @@ top: 85px;
 background: #E1E9DB;
 border-radius: 40px;
 }
+
+.secondpageimg{
+position: absolute;
+left: 1292px;
+top: 594px;
+
+border:#7C9A92 10px
+border-radius: 33px;
+}
